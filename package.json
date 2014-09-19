@@ -18,6 +18,6 @@
     "uninstall": "hook_uninstall"
   },
   "peerDependencies": {
-    "jshint": ""
+    "jshint": "2.4.x"
   }
 }
